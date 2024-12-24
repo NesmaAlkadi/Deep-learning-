@@ -1,0 +1,39 @@
+names:
+- 'أ'
+- 'ب'
+- 'ز'
+- 'س'
+- 'ش'
+- 'ص'
+- 'ض'
+- 'ط'
+- 'ظ'
+- 'ع'
+- 'غ'
+- 'ف'
+- 'ت'
+- 'ق'
+- 'ك'
+- 'ل'
+- 'م'
+- 'ن'
+- 'ه'
+- 'و'
+- 'ى'
+- 'ث'
+- 'ج'
+- 'ح'
+- 'خ'
+- 'د'
+- 'ذ'
+- 'ر'
+nc: 28
+roboflow:
+  license: CC BY 4.0
+  project: sign-language-jvmjx
+  url: https://universe.roboflow.com/project/sign-language-jvmjx/dataset/1
+  version: 1
+  workspace: project
+test: ../test/images
+train: sign-language-1/train/images
+val: sign-language-1/valid/images
