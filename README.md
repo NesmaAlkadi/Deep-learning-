@@ -2,7 +2,7 @@
 Deep learning YOLOV5s model
 
 ## Model Overview
-This project uses a YOLOv5s object detection model trained to recognize 28 classes of sign language gestures across a dataset of 11,000 images with complex backgrounds.
+This project uses a YOLOv5s object detection model trained to recognize 28 classes of sign language gestures across a dataset of 11,000 images with complex backgrounds. The dataset was processed and augmented using Roboflow to ensure high-quality annotations and robust transformations.
 
 # Key Features
 ## Data Augmentation:
